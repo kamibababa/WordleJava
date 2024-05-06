@@ -17,6 +17,8 @@ public class Wordle
     
     public static void main(String[] args)
     {
+        System.out.println("staveware");
+        System.out.println("neusoft");
         while(true)
         {
             Scanner input = new Scanner(System.in);
